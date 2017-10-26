@@ -1,0 +1,12 @@
+docker
+htop
+mysql
+nmap
+node
+postgresql
+python
+python3
+vim
+wget
+zsh
+zsh-syntax-highlighting

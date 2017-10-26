@@ -1,0 +1,11 @@
+android-studio
+discord
+dotnet-sdk
+firefox
+google-chrome
+iina
+iterm2
+microsoft-remote-desktop-beta
+minecraft
+spotify
+visual-studio-code
